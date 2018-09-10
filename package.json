@@ -1,0 +1,19 @@
+{
+  "name": "@ashtonkb/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonkbailey/sorting-algorithms.git"
+  },
+  "author": "Ashton K Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashtonkbailey/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/ashtonkbailey/sorting-algorithms#readme"
+}
